@@ -106,5 +106,6 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 3.2.17)
+  rake
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
