@@ -24,6 +24,7 @@ gem 'jquery-rails'
 
 group :test do
   gem 'rake'
+  gem 'ruby-prof'
 end
 
 # To use ActiveModel has_secure_password
